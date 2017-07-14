@@ -1,4 +1,6 @@
-run_analysis.R is the R script submitted for the Week 4 programming assignment of the 'Getting and
+# run_analysis.R
+
+This is the R script submitted for the Week 4 programming assignment of the 'Getting and
 Cleaning Data' class in the DataScience specialization. This script assumes that the original 
 dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 is downloaded and unzipped to the current working directory.
